@@ -3,7 +3,7 @@
 
 
 //MovieDB API
-const SEARCHAPI= "https://api.themoviedb.org/3/search/movie?&api_key=d21e8e083a7d1c35c07661864ac1b3f0&query="
+const SEARCHAPI= "https://api.themoviedb.org/3/search/movie?&api_key=<YOUR_API>&query="
 
 //MovieDB API image link
 const IMGPATH= "https://image.tmdb.org/t/p/w500"
